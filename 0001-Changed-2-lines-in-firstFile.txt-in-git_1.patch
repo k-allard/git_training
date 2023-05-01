@@ -1,0 +1,25 @@
+From afdd6fd556b5e4a683f590db291c2ae8e9253186 Mon Sep 17 00:00:00 2001
+From: Anastasiia Smirnova <smirn.anastasiia@gmail.com>
+Date: Mon, 1 May 2023 15:40:48 +0400
+Subject: [PATCH] Changed 2 lines in firstFile.txt in git_1
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index f00c965..4bee5c2 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -1,6 +1,6 @@
+ 1
+-2
+-3
++=
++=
+ 4
+ 5
+ 6
+-- 
+2.34.1
+
